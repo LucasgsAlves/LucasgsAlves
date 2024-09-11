@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning HTML and CSS
-- 🖥  BBear Headphone: https://koudzx.github.io/bbear.github.io/
+- 🖥  BBear Headphone: https://LucasgsAlves.github.io/bbear.github.io/
 
 
 
