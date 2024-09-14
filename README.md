@@ -3,9 +3,8 @@
 
 
 
+- 🏢 Working  on Lavorato
 - 🌱 I’m currently learning HTML and CSS
-- 🖥  BBear Headphone: https://LucasgsAlves.github.io/bbear.github.io/
-
 
 
 <h3>Contact</h3>
