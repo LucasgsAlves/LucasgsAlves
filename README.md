@@ -1,7 +1,3 @@
-# Hi, Lucas here 🧊
-### Too comfortable 💤
-
-
 <h2 align="left"></h2>
 
 ###
@@ -45,12 +41,6 @@
 ###
 
 <img align="right" height="150" src="https://i.imgur.com/NvdlhkW.gif"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/LucasgsAlves/LucasgsAlves/output/snake.svg" alt="Snake animation" />
 
 ###
 
