@@ -1,3 +1,11 @@
+<h1 align="left">Hy I'm Lucas Alves 🧊</h1>
+
+###
+
+<p align="left">💻 Working on Lavorato<br><br>📚 I’m currently learning Python and Java<br><br>📩 Contact me melucasgabrielsilvaa20@gmail.com</p>
+
+###
+
 <h2 align="left"></h2>
 
 ###
@@ -51,5 +59,9 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=2q5eedv2lstsq3ybk7a66sidp&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
