@@ -46,11 +46,7 @@
   </a>
 </div>
 
-###
 
-<img align="right" height="150" src="https://i.imgur.com/NvdlhkW.gif"  />
-
-###
 
 <br clear="both">
 
