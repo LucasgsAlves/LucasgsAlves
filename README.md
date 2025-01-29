@@ -2,7 +2,7 @@
 
 ###
 
-<br>📚 I’m currently learning Python and Java<br><br>📩 Contact me melucasgabrielsilvaa20@gmail.com</p>
+<br>📚 I’m currently learning Python and Java<br><br>📩 Contact me me lucasgabrielsilvaa20@gmail.com</p>
 
 ###
 
@@ -34,9 +34,6 @@
 <div align="left">
   <a href="instagram.com/koudzx" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.gg/YW9AcYmnEq" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://x.com/koudzx_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
