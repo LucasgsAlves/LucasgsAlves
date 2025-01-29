@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 Working on Lavorato<br><br>📚 I’m currently learning Python and Java<br><br>📩 Contact me melucasgabrielsilvaa20@gmail.com</p>
+<br>📚 I’m currently learning Python and Java<br><br>📩 Contact me melucasgabrielsilvaa20@gmail.com</p>
 
 ###
 
