@@ -6,6 +6,10 @@
 
 ###
 
+<h3 align="left">Contact Me</h3>
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/lucasgsalves/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -17,7 +21,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h4 align="left">Languages</h4>
 
 ###
 
