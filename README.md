@@ -1,11 +1,19 @@
 <h1 align="left">Hey I'm Lucas Alves 🧊</h1>
 
 ###
-<h2 align="left">About me</h2>
+
+<p align="left">📚  I’m currently learning Python<br>📩 Contact me me lucasgabrielsilvaa20@gmail.com</p>
 
 ###
 
-<p align="left">📚  I’m currently learning Python<br>📩 Contact me me lucasgabrielsilvaa20@gmail.com</p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/lucasgsalves/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:lucasgabrielsilvaa20@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
 ###
 
