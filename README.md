@@ -1,11 +1,6 @@
 <h1 align="left">Hey I'm Lucas Alves 🧊</h1>
 
 ###
-
-<p align="left">My name is Lucas and I'm a ..., from ....</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
