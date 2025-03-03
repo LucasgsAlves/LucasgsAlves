@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Contact Me</h3>
+<h3 align="left">Contact Me:</h3>
 
 ###
 
@@ -21,7 +21,7 @@
 
 ###
 
-<h4 align="left">Languages</h4>
+<h3 align="left">Languages</h4>
 
 ###
 
@@ -39,9 +39,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasgsAlves&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasgsAlves&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasgsalves&show_icons=true&locale=en&layout=compact&theme=radical" alt="lucasgsalves" height="273.5"/></p>
 
-###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasgsalves&theme=radical" alt="lucasgsalves" /></p>
