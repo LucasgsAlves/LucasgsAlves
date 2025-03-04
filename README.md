@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📚  I’m currently learning Python<br>📩 Contact me me ##lucasgabrielsilvaa20@gmail.com##</p>
+<p align="left">📚  I’m currently learning Python<br>📩 Contact me me lucasgabrielsilvaa20@gmail.com</p>
 
 ###
 
