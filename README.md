@@ -41,6 +41,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasgsalves&show_icons=true&locale=en&layout=compact&theme=radical" alt="lucasgsalves" height="273.5"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasgsalves&theme=radical" alt="lucasgsalves" /></p>
-
 ###
