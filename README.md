@@ -1,44 +1,52 @@
-<h1 align="left">Hey I'm Lucas Alves 🧊</h1>
-
-###
-
-<p align="left">📚  I’m currently learning Python<br>📩 Contact me me lucasgabrielsilvaa20@gmail.com</p>
-
-###
-
-<h3 align="left">Contact Me</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/lucasgsalves/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<div align="center">
+  <a href="https://www.linkedin.com/in/lucasgsalves/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
-  <a href="mailto:lucasgabrielsilvaa20@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:lucasgabrielsilvaa20@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Gmail" />
   </a>
 </div>
 
-###
+---
 
-<h4 align="left">Languages</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasgsalves.lucasgsalves" alt="visitor badge" />
 </div>
 
-###
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasgsalves&show_icons=true&locale=en&layout=compact&theme=radical" alt="lucasgsalves" height="273.5"/></p>
+<h1 align="center">Hey there 👋</h1>
 
-###
+---
+
+<h3>👩‍💻 About Me</h3>
+
+<p>I'm Lucas Alves from Brazil.<br>
+📚 Currently learning Python.<br>
+⚡ In my free time, I explore Data Science.</p>
+
+---
+
+<h3>🛠 Languages and Tools</h3>
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=lucasgsalves&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak Stats" />
+</div>
